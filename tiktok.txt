@@ -1,6 +1,5 @@
 payload:
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
-  - DOMAIN,sf16-website-login.neutral.ttwstatic.com
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,ibytedtos.com
   - DOMAIN-SUFFIX,ibyteimg.com
